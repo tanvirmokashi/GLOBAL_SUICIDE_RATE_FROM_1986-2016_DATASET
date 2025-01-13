@@ -1,0 +1,11 @@
+
+1. Which countries have the highest and lowest suicide rates per 100k population?
+2.which countries have the lowest suicide rates per 100k population?
+3. How do suicide rates differ by gender globally?
+4. How do suicide rates vary across age groups?
+5. How have global suicide rates changed over time?
+6. Which generations have the highest suicide rates?
+7. What is the distribution of average suicide rates across countries, and how does the frequency of countries vary as suicide rates increase?
+8. What is the relationship between GDP per capita and suicide rates?
+9.what is the correlation between suicide rates and all the factors such as gdp_per_capita, age groups,HDI ,population?
+
