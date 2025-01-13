@@ -35,7 +35,7 @@ The dataset contains **27821 rows** and **12 columns**, providing detailed infor
 
 ## Questions Explored
 
-1. **Top Countries**: Which countries have the highest and lowest suicide rates per 100k population?
+1. **Top Countries**: Which countries have the highest and lowest suicide rates per 100k population?(Bar Chart)
 2. **Gender Differences**: How do suicide rates differ by gender globally? *(Pie Chart)*
 3. **Age Group Trends**: How do suicide rates vary across age groups? *(Line Chart)*
 4. **Historical Trends**: How have global suicide rates changed over time? *(Line Chart)*
