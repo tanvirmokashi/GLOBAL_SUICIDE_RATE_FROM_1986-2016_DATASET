@@ -85,14 +85,22 @@ The project integrates with MySQL to store and query the dataset. The following 
 
 **1. Clone the repository:**
    git clone https://github.com/your-username/global-suicide-analysis.git
+
+   
 ******2.  Install required Python libraries:**
 pip install -r requirements.txt
+
+
 ****3.Set up the MySQL database:**
 Create a database named global_suicide_rate.
 Use the provided Python script to import the dataset into the suicide_data table.
+
+
 **4.Run the Jupyter Notebook:
 **
 jupyter notebook GLOBAL_SUICIDE_RATE_ANALYSIS(1986-2016).ipynb
+
+
 **Resources**
 Dataset: https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
 Python Scripts: For data analysis and SQL integra****tion.
