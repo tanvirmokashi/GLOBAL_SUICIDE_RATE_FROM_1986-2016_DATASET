@@ -85,7 +85,7 @@ The project integrates with MySQL to store and query the dataset. The following 
 
 **1. Clone the repository:**
    git clone 
-](https://github.com/tanvirmokashi/GLOBAL_SUICIDE_RATE_FROM_1986-2016_DATASET)
+(https://github.com/tanvirmokashi/GLOBAL_SUICIDE_RATE_FROM_1986-2016_DATASET)
    
 ******2.  Install required Python libraries:**
 pip install -r requirements.txt
